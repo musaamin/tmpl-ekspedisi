@@ -2,8 +2,6 @@
 
 Template website profil perusahaan ekspedisi modern dengan desain premium dan responsive.
 
-![Website Preview](assets/img/hero-truck.jpg)
-
 ## Fitur
 
 - **Desain Modern & Premium** - Tampilan profesional dengan warna oranye yang menarik
